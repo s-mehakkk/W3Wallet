@@ -1,0 +1,35 @@
+.main{
+    padding-top: 4%;
+    background-color: rgba(0, 0, 0, 0.92);
+    padding-left: 20%;
+    padding-right: 20%;
+    color: rgba(242, 231, 214, 0.996);
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon{
+    background-color: black;
+    text-align: center;
+    width: 10%;
+    height: 100%;
+}
+
+.phrase-input{
+    width:100%;
+    display: flex;
+    align-items: stretch;
+}
+
+.enter-phrase{
+    flex-grow: 1;
+    margin: 10px;
+}
+
+.add-wallet{
+    flex-grow: 1;
+    margin: 10px;
+}
